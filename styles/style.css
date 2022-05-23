@@ -1,0 +1,35 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main {
+    background-color: #1F2937;
+    color: white;
+    padding-bottom: 100px;
+}
+.complogo {
+    height: 100px;
+}
+.header, .complogo, .links, .content {
+    display: flex;
+}
+.complogo, .box1 {
+    margin-left: 200px;
+    gap: 5px;
+}
+.links, .box2 {
+    margin-right: 200px;
+    margin-left: auto;
+    gap: 20px;
+}
+.logo img {
+    height: 40px;
+    width: 40px;
+    margin-top: 15px;
+}
+.box2 img {
+    height: auto;
+    width: 400px;
+}
+h1 {
+    font-size: 48px;
+}
