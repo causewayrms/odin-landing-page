@@ -33,3 +33,22 @@ html {
 h1 {
     font-size: 48px;
 }
+.info {
+    text-align: center;
+    font-size: 36px;
+    padding: 30px;
+    color: #1F2937;
+}
+.item img {
+    width: 200px;
+    height: auto;
+}
+.services {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.item {
+    display: flex;
+    flex-direction: column;
+}

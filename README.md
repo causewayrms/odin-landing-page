@@ -10,6 +10,4 @@ Image Credit:
 
 4. Project Management: Eden Constantino: https://www.pexels.com/photo/purple-paper-on-brown-wooden-table-10705545/
 
-5. Book Keeping: Pixabay: https://www.pexels.com/photo/black-calculator-near-ballpoint-pen-on-white-printed-paper-53621/
-
-6. CRM: Andrea Piacquadio: https://www.pexels.com/photo/woman-in-brown-coat-carrying-two-white-tote-bags-919453/
+5. CRM: Andrea Piacquadio: https://www.pexels.com/photo/woman-in-brown-coat-carrying-two-white-tote-bags-919453/
